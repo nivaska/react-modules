@@ -1,14 +1,14 @@
 ## You will find these react components are in this repo:
 
-- Modal
+1. Modal
 
 Usage Example:
 
-```
+```javascript
         <Modal
           Show={true}
-          OkAction={() => { //function to execute on clicking ok })}
-          CancelAction={() => { //function to execute on clicking ok })}
+          OkAction={() => { /*function to execute on clicking OK*/ })}
+          CancelAction={() => { /*function to execute on clicking Cancel*/ })}
         >
           Modal Text Content
         </Modal>
