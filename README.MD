@@ -2,7 +2,7 @@ You will find these react components are in this repo:
 
 ### Modal
 
-Usage Example:
+Usage:
 
 ```javascript
         <Modal
