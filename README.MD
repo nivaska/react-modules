@@ -1,6 +1,6 @@
-## You will find these react components are in this repo:
+You will find these react components are in this repo:
 
-1. Modal
+### Modal
 
 Usage Example:
 
@@ -10,6 +10,6 @@ Usage Example:
           OkAction={() => { /*function to execute on clicking OK*/ })}
           CancelAction={() => { /*function to execute on clicking Cancel*/ })}
         >
-          Modal Text Content
+          Modal Content
         </Modal>
 ```
